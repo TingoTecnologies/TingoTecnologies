@@ -9,7 +9,7 @@
 <hr>
 
 ### Um pouquinho sobre nós!
-Somos uma empresa que busca visar o bem das pessoas e fazer a inclusão na sociedade, com produtos como nosso robô tingo, buscamos fazer a inclusão e tratar as pessoas com depressão, TDAH, etc.
+Somos uma empresa que busca visar o bem das pessoas e fazer a inclusão na sociedade, com produtos como nosso robô tingo, buscamos fazer a inclusão e tratar as pessoas com depressão, TDAH, ansiedade, etc.
 
 <hr>
 
